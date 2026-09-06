@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2942-find-words-containing-character](https://github.com/imaditya-stack/DSA--in-java/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/imaditya-stack/DSA--in-java/tree/master/2942-find-words-containing-character) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
