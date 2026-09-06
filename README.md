@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2942-find-words-containing-character](https://github.com/imaditya-stack/DSA--in-java/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/imaditya-stack/DSA--in-java/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
