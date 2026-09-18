@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/imaditya-stack/DSA--in-java/tree/master/0066-plus-one) |
 | [2119-a-number-after-a-double-reversal](https://github.com/imaditya-stack/DSA--in-java/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/imaditya-stack/DSA--in-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/imaditya-stack/DSA--in-java/tree/master/2544-alternating-digit-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/imaditya-stack/DSA--in-java/tree/master/3871-count-commas-in-range-ii) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/imaditya-stack/DSA--in-java/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/imaditya-stack/DSA--in-java/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/imaditya-stack/DSA--in-java/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
