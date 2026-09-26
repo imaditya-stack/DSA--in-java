@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/imaditya-stack/DSA--in-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2553-separate-the-digits-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/imaditya-stack/DSA--in-java/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
