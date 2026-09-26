@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/imaditya-stack/DSA--in-java/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/imaditya-stack/DSA--in-java/tree/master/0066-plus-one) |
 | [2119-a-number-after-a-double-reversal](https://github.com/imaditya-stack/DSA--in-java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/imaditya-stack/DSA--in-java/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -53,5 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/imaditya-stack/DSA--in-java/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/imaditya-stack/DSA--in-java/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/imaditya-stack/DSA--in-java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
