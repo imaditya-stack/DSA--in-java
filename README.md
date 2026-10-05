@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/imaditya-stack/DSA--in-java/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/imaditya-stack/DSA--in-java/tree/master/0066-plus-one) |
 | [0645-set-mismatch](https://github.com/imaditya-stack/DSA--in-java/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/imaditya-stack/DSA--in-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imaditya-stack/DSA--in-java/tree/master/0142-linked-list-cycle-ii) |
 | [0645-set-mismatch](https://github.com/imaditya-stack/DSA--in-java/tree/master/0645-set-mismatch) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/imaditya-stack/DSA--in-java/tree/master/0125-valid-palindrome) |
 | [2942-find-words-containing-character](https://github.com/imaditya-stack/DSA--in-java/tree/master/2942-find-words-containing-character) |
 ## Binary Search
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/imaditya-stack/DSA--in-java/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
