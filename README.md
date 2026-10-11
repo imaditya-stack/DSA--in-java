@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/imaditya-stack/DSA--in-java/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/imaditya-stack/DSA--in-java/tree/master/0066-plus-one) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/imaditya-stack/DSA--in-java/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/imaditya-stack/DSA--in-java/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/imaditya-stack/DSA--in-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imaditya-stack/DSA--in-java/tree/master/0142-linked-list-cycle-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imaditya-stack/DSA--in-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/imaditya-stack/DSA--in-java/tree/master/0645-set-mismatch) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/imaditya-stack/DSA--in-java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
